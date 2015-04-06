@@ -9,6 +9,7 @@ namespace FizzBuzz
 
         static void Main(string[] args)
         {
+            // Adding a comment to prove I can.
             Console.WriteLine("Press any key to get the first 10 Fibbonacci numbers!");
             Console.ReadKey();
 
